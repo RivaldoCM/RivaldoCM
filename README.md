@@ -9,17 +9,8 @@ Paralelo a isso, atualmente possuo um cargo de Analista de Rede Pleno em uma emp
 
 ### FERRAMENTAS E TECNOLOGIAS
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-          
-          
 <div>
-  <a href="https://github.com/seu-usuário-aqui">
+  <a href="https://github.com/RivaldoCM">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?RivaldoCM&layout=compact&langs_count=7&theme=dracula"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?RivaldoCM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
