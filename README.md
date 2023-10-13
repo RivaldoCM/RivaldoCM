@@ -11,8 +11,8 @@ Paralelo a isso, atualmente possuo um cargo de Analista de Rede Pleno em uma emp
 
 <div>
   <a href="https://github.com/RivaldoCM">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?RivaldoCM&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?RivaldoCM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RivaldoCM&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RivaldoCM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
           
           
